@@ -454,6 +454,7 @@ Part 2: [Part 2](https://www.loom.com/share/af1c221071624d50b4287d963c4c5a9d)
 ![SS3](./assets/ss3.png)
 ![SS4](./assets/ss4.png)
 ![SS5](./assets/ss5.png)
+![SS6](./assets/ss6.png)
 
 **Made with ❤️ for pet lovers and AI enthusiasts**
 
