@@ -1,0 +1,74 @@
+2026-04-24 09:50:52 - pawpal_ai - INFO - ✓ SCHEDULED: Evening walk (ID: task_max_4) | Confidence: 0.50 | Model: deepseek-r1:1.5b
+2026-04-24 09:50:52 - pawpal_ai - INFO - ✓ SCHEDULED: Dinner feeding (ID: task_max_5) | Confidence: 0.80 | Model: deepseek-r1:1.5b
+2026-04-24 09:50:52 - pawpal_ai - INFO - ✓ SCHEDULED: Nail trim (ID: task_max_7) | Confidence: 0.40 | Model: deepseek-r1:1.5b
+2026-04-24 09:50:52 - pawpal_ai - INFO - ✓ SCHEDULED: Dinner feeding (ID: task_whiskers_3) | Confidence: 0.80 | Model: deepseek-r1:1.5b
+2026-04-24 09:50:52 - pawpal_ai - INFO - ✓ SCHEDULED: Nail trim (ID: task_whiskers_7) | Confidence: 0.40 | Model: deepseek-r1:1.5b
+2026-04-24 09:50:52 - pawpal_ai - INFO - ✓ SCHEDULED: Evening pellets and hay (ID: task_luna_2) | Confidence: 0.80 | Model: deepseek-r1:1.5b
+2026-04-24 09:50:52 - pawpal_ai - INFO - ✓ SCHEDULED: Hutch cleaning (ID: task_luna_4) | Confidence: 0.40 | Model: deepseek-r1:1.5b
+2026-04-24 09:50:52 - pawpal_ai - INFO - ✓ SCHEDULED: Nail trim (ID: task_luna_7) | Confidence: 0.40 | Model: deepseek-r1:1.5b
+2026-04-24 09:50:52 - pawpal_ai - INFO - ✓ SCHEDULED: Evening training (ID: task_sunny_6) | Confidence: 0.50 | Model: deepseek-r1:1.5b
+2026-04-24 09:50:52 - pawpal_ai - INFO - ✓ SCHEDULED: Dinner feeding (ID: task_sunny_7) | Confidence: 0.80 | Model: deepseek-r1:1.5b
+2026-04-24 09:50:52 - pawpal_ai - INFO - ✓ SCHEDULED: Evening walk (ID: task_sunny_8) | Confidence: 0.50 | Model: deepseek-r1:1.5b
+2026-04-24 09:50:52 - pawpal_ai - INFO - ✓ SCHEDULED: Ear cleaning (ID: task_sunny_10) | Confidence: 0.40 | Model: deepseek-r1:1.5b
+2026-04-24 09:52:08 - pawpal_ai - INFO - ✓ SCHEDULED: Evening walk (ID: task_max_4) | Confidence: 0.50 | Model: deepseek-r1:1.5b
+2026-04-24 09:52:08 - pawpal_ai - INFO - ✓ SCHEDULED: Dinner feeding (ID: task_max_5) | Confidence: 0.80 | Model: deepseek-r1:1.5b
+2026-04-24 09:52:08 - pawpal_ai - INFO - ✓ SCHEDULED: Nail trim (ID: task_max_7) | Confidence: 0.40 | Model: deepseek-r1:1.5b
+2026-04-24 09:52:08 - pawpal_ai - INFO - ✓ SCHEDULED: Dinner feeding (ID: task_whiskers_3) | Confidence: 0.80 | Model: deepseek-r1:1.5b
+2026-04-24 09:52:08 - pawpal_ai - INFO - ✓ SCHEDULED: Nail trim (ID: task_whiskers_7) | Confidence: 0.40 | Model: deepseek-r1:1.5b
+2026-04-24 09:52:08 - pawpal_ai - INFO - ✓ SCHEDULED: Evening pellets and hay (ID: task_luna_2) | Confidence: 0.80 | Model: deepseek-r1:1.5b
+2026-04-24 09:52:08 - pawpal_ai - INFO - ✓ SCHEDULED: Hutch cleaning (ID: task_luna_4) | Confidence: 0.40 | Model: deepseek-r1:1.5b
+2026-04-24 09:52:08 - pawpal_ai - INFO - ✓ SCHEDULED: Nail trim (ID: task_luna_7) | Confidence: 0.40 | Model: deepseek-r1:1.5b
+2026-04-24 09:52:08 - pawpal_ai - INFO - ✓ SCHEDULED: Evening training (ID: task_sunny_6) | Confidence: 0.50 | Model: deepseek-r1:1.5b
+2026-04-24 09:52:08 - pawpal_ai - INFO - ✓ SCHEDULED: Dinner feeding (ID: task_sunny_7) | Confidence: 0.80 | Model: deepseek-r1:1.5b
+2026-04-24 09:52:08 - pawpal_ai - INFO - ✓ SCHEDULED: Evening walk (ID: task_sunny_8) | Confidence: 0.50 | Model: deepseek-r1:1.5b
+2026-04-24 09:52:08 - pawpal_ai - INFO - ✓ SCHEDULED: Ear cleaning (ID: task_sunny_10) | Confidence: 0.40 | Model: deepseek-r1:1.5b
+2026-04-24 09:52:10 - pawpal_ai - INFO - ✓ SCHEDULED: Evening walk (ID: task_max_4) | Confidence: 0.50 | Model: deepseek-r1:1.5b
+2026-04-24 09:52:10 - pawpal_ai - INFO - ✓ SCHEDULED: Dinner feeding (ID: task_max_5) | Confidence: 0.80 | Model: deepseek-r1:1.5b
+2026-04-24 09:52:10 - pawpal_ai - INFO - ✓ SCHEDULED: Nail trim (ID: task_max_7) | Confidence: 0.40 | Model: deepseek-r1:1.5b
+2026-04-24 09:52:10 - pawpal_ai - INFO - ✓ SCHEDULED: Dinner feeding (ID: task_whiskers_3) | Confidence: 0.80 | Model: deepseek-r1:1.5b
+2026-04-24 09:52:10 - pawpal_ai - INFO - ✓ SCHEDULED: Nail trim (ID: task_whiskers_7) | Confidence: 0.40 | Model: deepseek-r1:1.5b
+2026-04-24 09:52:10 - pawpal_ai - INFO - ✓ SCHEDULED: Evening pellets and hay (ID: task_luna_2) | Confidence: 0.80 | Model: deepseek-r1:1.5b
+2026-04-24 09:52:10 - pawpal_ai - INFO - ✓ SCHEDULED: Hutch cleaning (ID: task_luna_4) | Confidence: 0.40 | Model: deepseek-r1:1.5b
+2026-04-24 09:52:10 - pawpal_ai - INFO - ✓ SCHEDULED: Nail trim (ID: task_luna_7) | Confidence: 0.40 | Model: deepseek-r1:1.5b
+2026-04-24 09:52:10 - pawpal_ai - INFO - ✓ SCHEDULED: Evening training (ID: task_sunny_6) | Confidence: 0.50 | Model: deepseek-r1:1.5b
+2026-04-24 09:52:10 - pawpal_ai - INFO - ✓ SCHEDULED: Dinner feeding (ID: task_sunny_7) | Confidence: 0.80 | Model: deepseek-r1:1.5b
+2026-04-24 09:52:10 - pawpal_ai - INFO - ✓ SCHEDULED: Evening walk (ID: task_sunny_8) | Confidence: 0.50 | Model: deepseek-r1:1.5b
+2026-04-24 09:52:10 - pawpal_ai - INFO - ✓ SCHEDULED: Ear cleaning (ID: task_sunny_10) | Confidence: 0.40 | Model: deepseek-r1:1.5b
+2026-04-24 09:52:16 - pawpal_ai - INFO - ✓ SCHEDULED: Evening walk (ID: task_max_4) | Confidence: 0.50 | Model: deepseek-r1:1.5b
+2026-04-24 09:52:16 - pawpal_ai - INFO - ✓ SCHEDULED: Dinner feeding (ID: task_max_5) | Confidence: 0.80 | Model: deepseek-r1:1.5b
+2026-04-24 09:52:16 - pawpal_ai - INFO - ✓ SCHEDULED: Nail trim (ID: task_max_7) | Confidence: 0.40 | Model: deepseek-r1:1.5b
+2026-04-24 09:52:16 - pawpal_ai - INFO - ✓ SCHEDULED: Dinner feeding (ID: task_whiskers_3) | Confidence: 0.80 | Model: deepseek-r1:1.5b
+2026-04-24 09:52:16 - pawpal_ai - INFO - ✓ SCHEDULED: Nail trim (ID: task_whiskers_7) | Confidence: 0.40 | Model: deepseek-r1:1.5b
+2026-04-24 09:52:16 - pawpal_ai - INFO - ✓ SCHEDULED: Evening pellets and hay (ID: task_luna_2) | Confidence: 0.80 | Model: deepseek-r1:1.5b
+2026-04-24 09:52:16 - pawpal_ai - INFO - ✓ SCHEDULED: Hutch cleaning (ID: task_luna_4) | Confidence: 0.40 | Model: deepseek-r1:1.5b
+2026-04-24 09:52:16 - pawpal_ai - INFO - ✓ SCHEDULED: Nail trim (ID: task_luna_7) | Confidence: 0.40 | Model: deepseek-r1:1.5b
+2026-04-24 09:52:16 - pawpal_ai - INFO - ✓ SCHEDULED: Evening training (ID: task_sunny_6) | Confidence: 0.50 | Model: deepseek-r1:1.5b
+2026-04-24 09:52:16 - pawpal_ai - INFO - ✓ SCHEDULED: Dinner feeding (ID: task_sunny_7) | Confidence: 0.80 | Model: deepseek-r1:1.5b
+2026-04-24 09:52:16 - pawpal_ai - INFO - ✓ SCHEDULED: Evening walk (ID: task_sunny_8) | Confidence: 0.50 | Model: deepseek-r1:1.5b
+2026-04-24 09:52:16 - pawpal_ai - INFO - ✓ SCHEDULED: Ear cleaning (ID: task_sunny_10) | Confidence: 0.40 | Model: deepseek-r1:1.5b
+2026-04-24 09:58:06 - pawpal_ai - INFO - ✓ SCHEDULED: Evening walk (ID: task_max_4) | Confidence: 0.50 | Model: deepseek-r1:1.5b
+2026-04-24 09:58:06 - pawpal_ai - INFO - ✓ SCHEDULED: Dinner feeding (ID: task_max_5) | Confidence: 0.80 | Model: deepseek-r1:1.5b
+2026-04-24 09:58:06 - pawpal_ai - INFO - ✓ SCHEDULED: Nail trim (ID: task_max_7) | Confidence: 0.40 | Model: deepseek-r1:1.5b
+2026-04-24 09:58:06 - pawpal_ai - INFO - ✓ SCHEDULED: Dinner feeding (ID: task_whiskers_3) | Confidence: 0.80 | Model: deepseek-r1:1.5b
+2026-04-24 09:58:06 - pawpal_ai - INFO - ✓ SCHEDULED: Nail trim (ID: task_whiskers_7) | Confidence: 0.40 | Model: deepseek-r1:1.5b
+2026-04-24 09:58:06 - pawpal_ai - INFO - ✓ SCHEDULED: Evening pellets and hay (ID: task_luna_2) | Confidence: 0.80 | Model: deepseek-r1:1.5b
+2026-04-24 09:58:06 - pawpal_ai - INFO - ✓ SCHEDULED: Hutch cleaning (ID: task_luna_4) | Confidence: 0.40 | Model: deepseek-r1:1.5b
+2026-04-24 09:58:06 - pawpal_ai - INFO - ✓ SCHEDULED: Nail trim (ID: task_luna_7) | Confidence: 0.40 | Model: deepseek-r1:1.5b
+2026-04-24 09:58:06 - pawpal_ai - INFO - ✓ SCHEDULED: Evening training (ID: task_sunny_6) | Confidence: 0.50 | Model: deepseek-r1:1.5b
+2026-04-24 09:58:06 - pawpal_ai - INFO - ✓ SCHEDULED: Dinner feeding (ID: task_sunny_7) | Confidence: 0.80 | Model: deepseek-r1:1.5b
+2026-04-24 09:58:06 - pawpal_ai - INFO - ✓ SCHEDULED: Evening walk (ID: task_sunny_8) | Confidence: 0.50 | Model: deepseek-r1:1.5b
+2026-04-24 09:58:06 - pawpal_ai - INFO - ✓ SCHEDULED: Ear cleaning (ID: task_sunny_10) | Confidence: 0.40 | Model: deepseek-r1:1.5b
+2026-04-24 15:49:26 - pawpal_ai - INFO - ✓ SCHEDULED: Evening walk (ID: task_max_4) | Confidence: 0.50 | Model: deepseek-r1:1.5b
+2026-04-24 15:49:26 - pawpal_ai - INFO - ✓ SCHEDULED: Dinner feeding (ID: task_max_5) | Confidence: 0.80 | Model: deepseek-r1:1.5b
+2026-04-24 15:49:26 - pawpal_ai - INFO - ✓ SCHEDULED: Nail trim (ID: task_max_7) | Confidence: 0.40 | Model: deepseek-r1:1.5b
+2026-04-24 15:49:26 - pawpal_ai - INFO - ✓ SCHEDULED: Morning walk (ID: task_9) | Confidence: 0.70 | Model: deepseek-r1:1.5b
+2026-04-24 15:49:26 - pawpal_ai - INFO - ✓ SCHEDULED: Dinner feeding (ID: task_whiskers_3) | Confidence: 0.80 | Model: deepseek-r1:1.5b
+2026-04-24 15:49:26 - pawpal_ai - INFO - ✓ SCHEDULED: Nail trim (ID: task_whiskers_7) | Confidence: 0.40 | Model: deepseek-r1:1.5b
+2026-04-24 15:49:26 - pawpal_ai - INFO - ✓ SCHEDULED: Evening pellets and hay (ID: task_luna_2) | Confidence: 0.80 | Model: deepseek-r1:1.5b
+2026-04-24 15:49:26 - pawpal_ai - INFO - ✓ SCHEDULED: Hutch cleaning (ID: task_luna_4) | Confidence: 0.40 | Model: deepseek-r1:1.5b
+2026-04-24 15:49:26 - pawpal_ai - INFO - ✓ SCHEDULED: Nail trim (ID: task_luna_7) | Confidence: 0.40 | Model: deepseek-r1:1.5b
+2026-04-24 15:49:26 - pawpal_ai - INFO - ✓ SCHEDULED: Evening training (ID: task_sunny_6) | Confidence: 0.50 | Model: deepseek-r1:1.5b
+2026-04-24 15:49:26 - pawpal_ai - INFO - ✓ SCHEDULED: Dinner feeding (ID: task_sunny_7) | Confidence: 0.80 | Model: deepseek-r1:1.5b
+2026-04-24 15:49:26 - pawpal_ai - INFO - ✓ SCHEDULED: Evening walk (ID: task_sunny_8) | Confidence: 0.50 | Model: deepseek-r1:1.5b
+2026-04-24 15:49:26 - pawpal_ai - INFO - ✓ SCHEDULED: Morning walk (ID: task_11) | Confidence: 0.70 | Model: deepseek-r1:1.5b
+2026-04-24 15:49:26 - pawpal_ai - INFO - ✓ SCHEDULED: Ear cleaning (ID: task_sunny_10_next) | Confidence: 0.40 | Model: deepseek-r1:1.5b

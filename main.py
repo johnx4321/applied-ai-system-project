@@ -1,4 +1,4 @@
-from pawpal_system import Task, Pet, Owner, Scheduler, TimeOfDay, Frequency
+from src.pawpal_system import Task, Pet, Owner, Scheduler, TimeOfDay, Frequency
 
 # --- Setup Owner ---
 owner = Owner(name="Alex", available_time=90)  # 90 minutes available today

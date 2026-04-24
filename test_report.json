@@ -1,0 +1,104 @@
+{
+  "timestamp": "2026-04-24T10:03:46.359250",
+  "summary": {
+    "total_tests": 15,
+    "passed": 15,
+    "failed": 0,
+    "pass_rate": 1.0,
+    "average_confidence": 0.8966666666666666,
+    "execution_time": 0.0023589134216308594
+  },
+  "tests": [
+    {
+      "name": "Baseline RAG Retrieval",
+      "passed": true,
+      "confidence": 0.95,
+      "details": "Retrieved 223 chars of guidelines"
+    },
+    {
+      "name": "Multi-Source Retrieval",
+      "passed": true,
+      "confidence": 0.85,
+      "details": "Sources used: 4/4"
+    },
+    {
+      "name": "Quality Metrics Calculation",
+      "passed": true,
+      "confidence": 0.9,
+      "details": "Improvement calculated: 22.7%"
+    },
+    {
+      "name": "Breed-Specific Guides",
+      "passed": true,
+      "confidence": 0.85,
+      "details": "Guide retrieved: 607 chars"
+    },
+    {
+      "name": "Observable Workflow Steps",
+      "passed": true,
+      "confidence": 0.9,
+      "details": "Steps executed: 8/8"
+    },
+    {
+      "name": "Tool Usage",
+      "passed": true,
+      "confidence": 0.85,
+      "details": "Tools used: 7 (scheduler, conflict_detector, task_prioritizer, context_retriever, alternative_generator, constraint_analyzer, decision_maker)"
+    },
+    {
+      "name": "Decision Chain Reasoning",
+      "passed": true,
+      "confidence": 0.9,
+      "details": "Trace length: 1206 chars"
+    },
+    {
+      "name": "Workflow Export",
+      "passed": true,
+      "confidence": 0.95,
+      "details": "Exported to /tmp/test_workflow.json"
+    },
+    {
+      "name": "Few-Shot Example Database",
+      "passed": true,
+      "confidence": 0.95,
+      "details": "Examples loaded: 6"
+    },
+    {
+      "name": "Specialized Output Generation",
+      "passed": true,
+      "confidence": 0.85,
+      "details": "Baseline: 117ch, Specialized: 452ch"
+    },
+    {
+      "name": "Professional Tone Consistency",
+      "passed": true,
+      "confidence": 0.9,
+      "details": "Veterinary professional tone applied"
+    },
+    {
+      "name": "Synthetic Data Generation",
+      "passed": true,
+      "confidence": 0.95,
+      "details": "Generated 10 synthetic examples"
+    },
+    {
+      "name": "RAG + Workflow Integration",
+      "passed": true,
+      "confidence": 0.9,
+      "details": "Systems integrated successfully"
+    },
+    {
+      "name": "Workflow + Specialization Integration",
+      "passed": true,
+      "confidence": 0.85,
+      "details": "Integration verified"
+    },
+    {
+      "name": "End-to-End System Test",
+      "passed": true,
+      "confidence": 0.9,
+      "details": "Scheduled 2 tasks"
+    }
+  ],
+  "status": "PASS"
+}

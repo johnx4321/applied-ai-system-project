@@ -2,7 +2,7 @@ import sys
 import os
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), ".."))
 
-from pawpal_system import Task, Pet, Owner, Scheduler, Frequency, TimeOfDay
+from src.pawpal_system import Task, Pet, Owner, Scheduler, Frequency, TimeOfDay
 
 
 def test_task_completion():

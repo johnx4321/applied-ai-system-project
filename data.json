@@ -1,22 +1,446 @@
 {
-  "name": "Jordan",
-  "available_time": 120,
-  "preferences": {},
+  "name": "Alex & Jordan & Joy",
+  "available_time": 240,
+  "preferences": {
+    "morning_person": true,
+    "exercise_enthusiast": true
+  },
   "pets": [
     {
-      "name": "Mochi",
-      "species": "cat",
-      "age": 3,
-      "special_needs": [],
+      "name": "Max",
+      "species": "dog",
+      "age": 5,
+      "special_needs": [
+        "medication required",
+        "mild arthritis"
+      ],
       "tasks": [
         {
-          "task_id": "task_1",
+          "task_id": "task_max_1",
           "name": "Morning walk",
-          "description": "Daily exercise",
+          "description": "Gentle morning exercise to ease into day",
           "category": "walk",
+          "duration": 30,
+          "priority": 3,
+          "frequency": "daily",
+          "preferred_time": "morning",
+          "is_completed": true
+        },
+        {
+          "task_id": "task_max_2",
+          "name": "Medication (Glucosamine)",
+          "description": "Joint supplement for arthritis management",
+          "category": "medication",
+          "duration": 5,
+          "priority": 3,
+          "frequency": "daily",
+          "preferred_time": "morning",
+          "is_completed": true
+        },
+        {
+          "task_id": "task_max_3",
+          "name": "Lunch feeding",
+          "description": "Midday meal with medication",
+          "category": "feed",
+          "duration": 10,
+          "priority": 3,
+          "frequency": "daily",
+          "preferred_time": "afternoon",
+          "is_completed": true
+        },
+        {
+          "task_id": "task_max_4",
+          "name": "Evening walk",
+          "description": "Gentle evening exercise and bathroom break",
+          "category": "walk",
+          "duration": 20,
+          "priority": 2,
+          "frequency": "daily",
+          "preferred_time": "evening",
+          "is_completed": false
+        },
+        {
+          "task_id": "task_max_5",
+          "name": "Dinner feeding",
+          "description": "Evening meal",
+          "category": "feed",
+          "duration": 10,
+          "priority": 3,
+          "frequency": "daily",
+          "preferred_time": "evening",
+          "is_completed": false
+        },
+        {
+          "task_id": "task_max_6",
+          "name": "Grooming - coat brush",
+          "description": "Brush to manage shedding and check skin",
+          "category": "grooming",
+          "duration": 15,
+          "priority": 2,
+          "frequency": "weekly",
+          "preferred_time": null,
+          "is_completed": true
+        },
+        {
+          "task_id": "task_max_7",
+          "name": "Nail trim",
+          "description": "Professional or home nail trimming",
+          "category": "grooming",
+          "duration": 20,
+          "priority": 2,
+          "frequency": "weekly",
+          "preferred_time": null,
+          "is_completed": false
+        },
+        {
+          "task_id": "task_max_8",
+          "name": "Training session",
+          "description": "Mental stimulation and obedience practice",
+          "category": "enrichment",
+          "duration": 15,
+          "priority": 1,
+          "frequency": "daily",
+          "preferred_time": "afternoon",
+          "is_completed": true
+        },
+        {
+          "task_id": "task_9",
+          "name": "Morning walk",
+          "description": "Daily exercise and bonding",
+          "category": "walk",
+          "duration": 30,
+          "priority": 3,
+          "frequency": "daily",
+          "preferred_time": null,
+          "is_completed": false
+        }
+      ]
+    },
+    {
+      "name": "Whiskers",
+      "species": "cat",
+      "age": 2,
+      "special_needs": [
+        "indoor only",
+        "sensitive stomach"
+      ],
+      "tasks": [
+        {
+          "task_id": "task_whiskers_1",
+          "name": "Breakfast feeding",
+          "description": "High-quality, limited ingredient cat food",
+          "category": "feed",
+          "duration": 5,
+          "priority": 3,
+          "frequency": "daily",
+          "preferred_time": "morning",
+          "is_completed": true
+        },
+        {
+          "task_id": "task_whiskers_2",
+          "name": "Lunch feeding",
+          "description": "Mid-day meal",
+          "category": "feed",
+          "duration": 5,
+          "priority": 3,
+          "frequency": "daily",
+          "preferred_time": "afternoon",
+          "is_completed": true
+        },
+        {
+          "task_id": "task_whiskers_3",
+          "name": "Dinner feeding",
+          "description": "Evening meal",
+          "category": "feed",
+          "duration": 5,
+          "priority": 3,
+          "frequency": "daily",
+          "preferred_time": "evening",
+          "is_completed": false
+        },
+        {
+          "task_id": "task_whiskers_4",
+          "name": "Litter box cleaning",
+          "description": "Daily scoop and fresh litter",
+          "category": "enrichment",
+          "duration": 10,
+          "priority": 3,
+          "frequency": "daily",
+          "preferred_time": "morning",
+          "is_completed": true
+        },
+        {
+          "task_id": "task_whiskers_5",
+          "name": "Interactive play",
+          "description": "Feather wand or laser toy playtime",
+          "category": "enrichment",
+          "duration": 15,
+          "priority": 2,
+          "frequency": "daily",
+          "preferred_time": "afternoon",
+          "is_completed": true
+        },
+        {
+          "task_id": "task_whiskers_6",
+          "name": "Grooming - brush coat",
+          "description": "Short-haired cat brushing to reduce shedding",
+          "category": "grooming",
+          "duration": 10,
+          "priority": 1,
+          "frequency": "weekly",
+          "preferred_time": "afternoon",
+          "is_completed": true
+        },
+        {
+          "task_id": "task_whiskers_7",
+          "name": "Nail trim",
+          "description": "Trim claws to prevent damage",
+          "category": "grooming",
+          "duration": 15,
+          "priority": 1,
+          "frequency": "weekly",
+          "preferred_time": null,
+          "is_completed": false
+        },
+        {
+          "task_id": "task_whiskers_8",
+          "name": "Health check",
+          "description": "Monitor for any behavioral or health changes",
+          "category": "medication",
+          "duration": 5,
+          "priority": 2,
+          "frequency": "weekly",
+          "preferred_time": null,
+          "is_completed": true
+        }
+      ]
+    },
+    {
+      "name": "Luna",
+      "species": "rabbit",
+      "age": 1,
+      "special_needs": [
+        "dwarf breed",
+        "requires supervised outdoor time"
+      ],
+      "tasks": [
+        {
+          "task_id": "task_luna_2",
+          "name": "Evening pellets and hay",
+          "description": "Limited pellets with unlimited hay",
+          "category": "feed",
+          "duration": 10,
+          "priority": 3,
+          "frequency": "daily",
+          "preferred_time": "evening",
+          "is_completed": false
+        },
+        {
+          "task_id": "task_luna_3",
+          "name": "Water bottle refill",
+          "description": "Check and refill water bottle",
+          "category": "enrichment",
+          "duration": 5,
+          "priority": 3,
+          "frequency": "daily",
+          "preferred_time": "morning",
+          "is_completed": true
+        },
+        {
+          "task_id": "task_luna_4",
+          "name": "Hutch cleaning",
+          "description": "Remove soiled bedding and refresh",
+          "category": "enrichment",
+          "duration": 20,
+          "priority": 2,
+          "frequency": "weekly",
+          "preferred_time": null,
+          "is_completed": false
+        },
+        {
+          "task_id": "task_luna_5",
+          "name": "Outdoor time (supervised)",
+          "description": "Exercise in safe pen on grass",
+          "category": "enrichment",
+          "duration": 30,
+          "priority": 2,
+          "frequency": "daily",
+          "preferred_time": "afternoon",
+          "is_completed": true
+        },
+        {
+          "task_id": "task_luna_6",
+          "name": "Fur grooming",
+          "description": "Brush to prevent mats and manage shedding",
+          "category": "grooming",
+          "duration": 10,
+          "priority": 1,
+          "frequency": "weekly",
+          "preferred_time": null,
+          "is_completed": true
+        },
+        {
+          "task_id": "task_luna_7",
+          "name": "Nail trim",
+          "description": "Trim overgrown nails",
+          "category": "grooming",
+          "duration": 15,
+          "priority": 2,
+          "frequency": "weekly",
+          "preferred_time": null,
+          "is_completed": false
+        },
+        {
+          "task_id": "task_luna_8",
+          "name": "Enrichment - dig box",
+          "description": "Provide fresh bedding for burrowing",
+          "category": "enrichment",
+          "duration": 15,
+          "priority": 1,
+          "frequency": "weekly",
+          "preferred_time": null,
+          "is_completed": true
+        }
+      ]
+    },
+    {
+      "name": "Sunny",
+      "species": "dog",
+      "age": 2,
+      "special_needs": [
+        "high energy",
+        "training in progress"
+      ],
+      "tasks": [
+        {
+          "task_id": "task_sunny_1",
+          "name": "Morning run",
+          "description": "High-energy morning exercise",
+          "category": "walk",
+          "duration": 45,
+          "priority": 3,
+          "frequency": "daily",
+          "preferred_time": "morning",
+          "is_completed": true
+        },
+        {
+          "task_id": "task_sunny_2",
+          "name": "Breakfast feeding",
+          "description": "High-protein puppy formula",
+          "category": "feed",
+          "duration": 10,
+          "priority": 3,
+          "frequency": "daily",
+          "preferred_time": "morning",
+          "is_completed": true
+        },
+        {
+          "task_id": "task_sunny_3",
+          "name": "Training session - morning",
+          "description": "Obedience and agility training",
+          "category": "enrichment",
           "duration": 20,
           "priority": 3,
           "frequency": "daily",
+          "preferred_time": "morning",
+          "is_completed": true
+        },
+        {
+          "task_id": "task_sunny_4",
+          "name": "Midday walk and potty break",
+          "description": "Afternoon exercise and bathroom",
+          "category": "walk",
+          "duration": 20,
+          "priority": 2,
+          "frequency": "daily",
+          "preferred_time": "afternoon",
+          "is_completed": true
+        },
+        {
+          "task_id": "task_sunny_5",
+          "name": "Lunch feeding",
+          "description": "Mid-day meal",
+          "category": "feed",
+          "duration": 10,
+          "priority": 3,
+          "frequency": "daily",
+          "preferred_time": "afternoon",
+          "is_completed": true
+        },
+        {
+          "task_id": "task_sunny_6",
+          "name": "Evening training",
+          "description": "Mental stimulation games",
+          "category": "enrichment",
+          "duration": 20,
+          "priority": 2,
+          "frequency": "daily",
+          "preferred_time": "evening",
+          "is_completed": false
+        },
+        {
+          "task_id": "task_sunny_7",
+          "name": "Dinner feeding",
+          "description": "Evening meal",
+          "category": "feed",
+          "duration": 10,
+          "priority": 3,
+          "frequency": "daily",
+          "preferred_time": "evening",
+          "is_completed": false
+        },
+        {
+          "task_id": "task_sunny_8",
+          "name": "Evening walk",
+          "description": "Wind-down exercise before bed",
+          "category": "walk",
+          "duration": 20,
+          "priority": 2,
+          "frequency": "daily",
+          "preferred_time": "evening",
+          "is_completed": false
+        },
+        {
+          "task_id": "task_sunny_9",
+          "name": "Grooming - coat brush",
+          "description": "Regular brushing for coat health",
+          "category": "grooming",
+          "duration": 15,
+          "priority": 1,
+          "frequency": "weekly",
+          "preferred_time": null,
+          "is_completed": true
+        },
+        {
+          "task_id": "task_sunny_10",
+          "name": "Ear cleaning",
+          "description": "Check and clean ears",
+          "category": "grooming",
+          "duration": 10,
+          "priority": 1,
+          "frequency": "weekly",
+          "preferred_time": null,
+          "is_completed": true
+        },
+        {
+          "task_id": "task_11",
+          "name": "Morning walk",
+          "description": "Daily exercise and bonding",
+          "category": "walk",
+          "duration": 30,
+          "priority": 3,
+          "frequency": "daily",
+          "preferred_time": null,
+          "is_completed": false
+        },
+        {
+          "task_id": "task_sunny_10_next",
+          "name": "Ear cleaning",
+          "description": "Check and clean ears",
+          "category": "grooming",
+          "duration": 10,
+          "priority": 1,
+          "frequency": "weekly",
           "preferred_time": null,
           "is_completed": false
         }

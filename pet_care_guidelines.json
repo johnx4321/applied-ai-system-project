@@ -1,0 +1,185 @@
+{
+  "pet_guidelines": {
+    "dog": {
+      "exercise": {
+        "description": "Dogs need regular physical activity",
+        "recommendations": [
+          "Small breeds (under 10 lbs): 30 minutes daily minimum",
+          "Medium breeds (10-25 lbs): 60 minutes daily minimum",
+          "Large breeds (over 25 lbs): 60-90 minutes daily minimum",
+          "Puppies (under 1 year): 5 minutes per month of age, twice daily",
+          "Senior dogs (over 7 years): 20-30 minutes daily, low impact"
+        ],
+        "best_times": ["morning", "afternoon", "evening"],
+        "importance": "high"
+      },
+      "feeding": {
+        "description": "Proper nutrition is essential",
+        "recommendations": [
+          "Adult dogs: 1-2 meals per day",
+          "Puppies (under 6 months): 3-4 meals per day",
+          "Senior dogs: 2 meals per day",
+          "Feed at same times daily to regulate digestion",
+          "Average meal duration: 10 minutes"
+        ],
+        "best_times": ["morning", "evening"],
+        "importance": "high"
+      },
+      "grooming": {
+        "description": "Regular grooming keeps coat and skin healthy",
+        "recommendations": [
+          "Brush coat 3-4 times weekly",
+          "Professional grooming every 6-8 weeks",
+          "Nail trim every 4-6 weeks",
+          "Ear cleaning weekly",
+          "Brush teeth daily if possible"
+        ],
+        "best_times": ["morning", "evening"],
+        "importance": "medium"
+      },
+      "training": {
+        "description": "Mental stimulation and obedience training",
+        "recommendations": [
+          "Training sessions: 10-15 minutes, 2-3 times daily",
+          "Use positive reinforcement",
+          "Consistency is key for behavior management",
+          "Puppies need more frequent training"
+        ],
+        "best_times": ["morning", "afternoon"],
+        "importance": "medium"
+      }
+    },
+    "cat": {
+      "feeding": {
+        "description": "Cats have specific nutritional needs",
+        "recommendations": [
+          "Adult cats: 1-2 meals per day",
+          "Kittens (under 1 year): 3-4 meals per day",
+          "Senior cats (over 10 years): 2-3 small meals daily",
+          "Feed at consistent times",
+          "Average meal duration: 5-10 minutes"
+        ],
+        "best_times": ["morning", "evening"],
+        "importance": "high"
+      },
+      "grooming": {
+        "description": "Cats groom themselves but need assistance",
+        "recommendations": [
+          "Brush long-haired cats daily",
+          "Brush short-haired cats 2-3 times weekly",
+          "Nail trim every 2-3 weeks",
+          "Check ears weekly for cleanliness",
+          "Dental care if recommended by vet"
+        ],
+        "best_times": ["morning", "evening"],
+        "importance": "medium"
+      },
+      "enrichment": {
+        "description": "Mental stimulation and play",
+        "recommendations": [
+          "Interactive play: 15-20 minutes daily",
+          "Puzzle feeders to engage hunting instinct",
+          "Climbing structures and window perches",
+          "Rotate toys weekly to maintain interest",
+          "Multiple play sessions throughout day"
+        ],
+        "best_times": ["afternoon", "evening"],
+        "importance": "medium"
+      },
+      "medication": {
+        "description": "Administer prescribed medications",
+        "recommendations": [
+          "Follow veterinary instructions exactly",
+          "Administer at consistent times daily",
+          "Monitor for side effects",
+          "Keep records of medication administration",
+          "Typical duration: 5 minutes per administration"
+        ],
+        "best_times": ["morning", "evening"],
+        "importance": "high"
+      }
+    },
+    "rabbit": {
+      "feeding": {
+        "description": "Rabbits need hay, vegetables, and limited pellets",
+        "recommendations": [
+          "Hay: unlimited throughout day",
+          "Pellets: 1/4 cup per 5 pounds body weight daily",
+          "Fresh vegetables: 1-2 cups daily",
+          "Feed at consistent times",
+          "Average feeding time: 10-15 minutes"
+        ],
+        "best_times": ["morning", "evening"],
+        "importance": "high"
+      },
+      "exercise": {
+        "description": "Rabbits need space to hop and run",
+        "recommendations": [
+          "Minimum 4 hours outside enclosure daily",
+          "Safe play area: 10x10 feet minimum",
+          "Provide obstacles and hiding spaces",
+          "Monitor for exhaustion in hot weather",
+          "Exercise duration: 2-4 hours"
+        ],
+        "best_times": ["morning", "evening"],
+        "importance": "high"
+      },
+      "grooming": {
+        "description": "Regular grooming prevents fur matting",
+        "recommendations": [
+          "Brush 2-3 times weekly (daily during shedding)",
+          "Nail trim every 4-6 weeks",
+          "Check teeth for overgrowth",
+          "Monitor skin for abnormalities",
+          "Duration: 10-15 minutes"
+        ],
+        "best_times": ["morning", "afternoon"],
+        "importance": "medium"
+      }
+    }
+  },
+  "task_category_defaults": {
+    "walk": {
+      "typical_duration": 30,
+      "frequency_recommendation": "daily",
+      "priority_if_high_energy": "high",
+      "applicable_to": ["dog"]
+    },
+    "feed": {
+      "typical_duration": 10,
+      "frequency_recommendation": "1-2 times daily",
+      "priority_if_critical": "high",
+      "applicable_to": ["dog", "cat", "rabbit"]
+    },
+    "grooming": {
+      "typical_duration": 30,
+      "frequency_recommendation": "weekly",
+      "priority_if_neglected": "medium",
+      "applicable_to": ["dog", "cat", "rabbit"]
+    },
+    "medication": {
+      "typical_duration": 5,
+      "frequency_recommendation": "per vet instructions",
+      "priority_if_prescribed": "high",
+      "applicable_to": ["dog", "cat", "rabbit"]
+    },
+    "enrichment": {
+      "typical_duration": 20,
+      "frequency_recommendation": "daily",
+      "priority_if_bored": "medium",
+      "applicable_to": ["dog", "cat", "rabbit"]
+    }
+  },
+  "special_considerations": {
+    "puppy": "Puppies require more frequent meals, more training, and supervised exercise to prevent joint damage",
+    "senior": "Senior pets need gentler exercise, more frequent small meals, and closer health monitoring",
+    "medication_required": "Tasks with medications must be scheduled at consistent times for effectiveness",
+    "energy_level": "High-energy pets benefit from morning exercise to tire them out for the day",
+    "behavior_issues": "Problem behaviors often improve with consistent training and exercise"
+  },
+  "time_slot_guidance": {
+    "morning": "Best for high-energy activities, medications, and main feeding",
+    "afternoon": "Good for enrichment, training, and moderate exercise",
+    "evening": "Suitable for calm activities, grooming, and second feeding"
+  }
+}
